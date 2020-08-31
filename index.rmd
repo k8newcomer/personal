@@ -1,12 +1,14 @@
----
-title: "index"
-author: "Katrina Newcomer"
-date: "August 31, 2020"
-output: html_document
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+![](https://media-exp1.licdn.com/dms/image/C4E03AQG4-lPflc39Lg/profile-displayphoto-shrink_400_400/0?e=1604534400&v=beta&t=asaw8DLpfL1cplNNPiCsBlO-PizIEzNQCAz_bwQ1Gx4)
 
-Hi
+Hi! My name is Kate Newcomer and I am a junior Biochemistry and Molecular Biology major at the University of Massachusetts Amherst. I am a member of the Blanchard lab at UMass Amherst [(x)](https://www.bio.umass.edu/biology/blanchard/) as well as the local STEM Ambassadors outreach program [(x).](https://www.stemapumass.org/)
+
+I greatly enjoy programming, cats, and cooking new recipes.
+
+My github is [(x).](https://github.com/k8newcomer/)
+
+My linkedin is [(x).](https://www.linkedin.com/in/kate-newcomer-5574b57b/)
